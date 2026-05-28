@@ -1,0 +1,34 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="1200" height="420" rx="32" fill="#FFF6E8"/>
+<rect x="22" y="22" width="1156" height="376" rx="26" fill="url(#bg)" stroke="#F0D7AA" stroke-width="2"/>
+<circle cx="1024" cy="116" r="176" fill="#FFD76A" fill-opacity="0.4"/>
+<circle cx="905" cy="349" r="130" fill="#FF9F5B" fill-opacity="0.28"/>
+<circle cx="154" cy="90" r="112" fill="#FFE7AB" fill-opacity="0.65"/>
+<rect x="717" y="110" width="406" height="190" rx="28" fill="#FFFFFF" fill-opacity="0.85" stroke="#E6C78A" stroke-width="2"/>
+<rect x="757" y="152" width="84" height="48" rx="16" fill="#FFE08A"/>
+<rect x="882" y="152" width="84" height="48" rx="16" fill="#FFD1A8"/>
+<rect x="1007" y="152" width="84" height="48" rx="16" fill="#FFC16D"/>
+<path d="M841 176H882" stroke="#7B4B20" stroke-width="6" stroke-linecap="round"/>
+<path d="M966 176H1007" stroke="#7B4B20" stroke-width="6" stroke-linecap="round"/>
+<rect x="820" y="232" width="208" height="28" rx="14" fill="#FFEFD1"/>
+<text x="924" y="252" text-anchor="middle" fill="#8E5624" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="700">tokenize → embed → generate</text>
+<circle cx="214" cy="186" r="54" fill="#FFCF58"/>
+<circle cx="198" cy="174" r="7" fill="#5A3A16"/>
+<circle cx="230" cy="174" r="7" fill="#5A3A16"/>
+<path d="M190 204C201 216 227 216 238 204" stroke="#5A3A16" stroke-width="6" stroke-linecap="round"/>
+<path d="M164 157C172 141 187 130 206 128" stroke="#5A3A16" stroke-width="6" stroke-linecap="round"/>
+<path d="M264 157C256 141 241 130 222 128" stroke="#5A3A16" stroke-width="6" stroke-linecap="round"/>
+<text x="86" y="136" fill="#6D3B12" font-family="Segoe UI, Arial, sans-serif" font-size="54" font-weight="800">HuggingFace Pipeline</text>
+<text x="86" y="182" fill="#A35A1F" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">Hands-on pipeline experiments for modern NLP and inference flows</text>
+<text x="86" y="235" fill="#6E6256" font-family="Segoe UI, Arial, sans-serif" font-size="20">Practice model loading, preprocessing, batching, and response generation</text>
+<text x="86" y="267" fill="#6E6256" font-family="Segoe UI, Arial, sans-serif" font-size="20">with a visual identity that matches the Hugging Face ecosystem.</text>
+<rect x="86" y="305" width="154" height="42" rx="21" fill="#FFCF58"/>
+<text x="163" y="332" text-anchor="middle" fill="#5A3A16" font-family="Segoe UI, Arial, sans-serif" font-size="16" font-weight="800">PIPELINE LAB</text>
+<defs>
+<linearGradient id="bg" x1="43" y1="36" x2="1146" y2="378" gradientUnits="userSpaceOnUse">
+<stop stop-color="#FFF9F0"/>
+<stop offset="0.56" stop-color="#FFF1D3"/>
+<stop offset="1" stop-color="#FFE3C3"/>
+</linearGradient>
+</defs>
+</svg>
